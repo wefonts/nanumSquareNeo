@@ -53,3 +53,7 @@
          url("https://wefonts.github.io/nanumSquareNeo/nanumSquareNeo-Black.ttf") format("truetype");
     font-display: swap;
 }
+
+.nanumSquareNeo {
+    font-family: "nanumSquareNeo";
+}
